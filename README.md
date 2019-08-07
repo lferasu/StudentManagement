@@ -1,2 +1,0 @@
-# StudentManagement
-Student Management
